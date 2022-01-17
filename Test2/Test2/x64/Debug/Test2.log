@@ -1,0 +1,9 @@
+﻿  Test2.cpp
+C:\Users\osis\source\repos\Test2\Test2\Test2.cpp(13,40): warning C4305: +=: усечение из "double" в "float"
+C:\Users\osis\source\repos\Test2\Test2\Test2.cpp(14,44): warning C4305: +=: усечение из "double" в "float"
+C:\Users\osis\source\repos\Test2\Test2\Test2.cpp(26,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\osis\source\repos\Test2\Test2\Test2.cpp(27,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\osis\source\repos\Test2\Test2\Test2.cpp(29,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\osis\source\repos\Test2\Test2\Test2.cpp(39,25): warning C4305: +=: усечение из "double" в "float"
+C:\Users\osis\source\repos\Test2\Test2\Test2.cpp(40,25): warning C4305: +=: усечение из "double" в "float"
+  Test2.vcxproj -> C:\Users\osis\source\repos\Test2\x64\Debug\Test2.exe
