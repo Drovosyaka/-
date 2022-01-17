@@ -1,2 +1,2 @@
-std::cout << "Hello World!" << endl;
-printf ("Hello");
+std::cout << "Hello World;" << endl;
+printf ("Hello;");
