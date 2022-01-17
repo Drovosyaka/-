@@ -1,4 +1,5 @@
 std::cout << "Hello World!" << endl;
-printf ("Hello");
-printf ("Hello my dear friend");
-printf ("Glad to see you");
+printf ("Hello;");
+printf ("Hello my dear friend;");
+printf ("Glad to see you;");
+
